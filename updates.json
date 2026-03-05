@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "mini-timer-todo@felipeeliasrech": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://felipeeliasrech.github.io/timer-todo-updates/timer-todo.xpi"
+        }
+      ]
+    }
+  }
+}
